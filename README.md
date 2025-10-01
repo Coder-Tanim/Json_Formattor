@@ -35,15 +35,6 @@ A lightweight Chrome extension that helps you format, validate, and explore JSON
 ## 🖼️ Screenshot
 <img width="548" height="705" alt="Screenshot_3" src="https://github.com/user-attachments/assets/1a933f98-2d9c-4d5d-89d4-9fbab1de78fc" />
 
-
-## 🏗️ Project Structure
-simple-json-formatter/
-├── manifest.json # Extension configuration (Manifest V3)
-├── popup.html # Popup interface
-├── popup.css # Styling for the popup
-├── popup.js # Main functionality
-└── icon128.png # Extension icon
-
 ## 🔧 Technical Details
 
 ### Key Files

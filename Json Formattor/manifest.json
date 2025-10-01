@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Simple JSON Formatter",
+  "version": "1.0",
+  "description": "Format and validate JSON in a popup with persistent data.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Format JSON"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
